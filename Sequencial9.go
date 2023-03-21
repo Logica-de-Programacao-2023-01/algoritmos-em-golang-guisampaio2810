@@ -7,4 +7,5 @@ func main() {
 	fmt.Print("Qual preço do produto?")
 	fmt.Scan(&precoProduto)
 	fmt.Println("O preço do produto com 10% é de:" precoProduto * 0.9)
+
 }
